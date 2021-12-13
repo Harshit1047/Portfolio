@@ -6,6 +6,7 @@ export default function Profile() {
             <div className='profile-parent'>
                 <div className='profile-details'>
                     <div className='colz'>
+                        <div className='colz-icon'>
                         <a href='https://www.linkedin.com/in/harshit-pratap-singh-36258a1b1/'>
                             <i class="fa fa-linkedin-square"></i>
                         </a>
@@ -15,6 +16,8 @@ export default function Profile() {
                         <a href='https://github.com/Harshit1047'>
                             <i class="fa fa-github" aria-hidden="true"></i>
                         </a>
+                        </div>
+    
                     </div>
                     <div className='profile-details-name'>
                         <span className='primary-text'>
@@ -52,9 +55,13 @@ export default function Profile() {
                             Hire Me{" "}
                         </button>
                         <a href="Resume.pdf" download='Harshit Resume.pdf'>
-                        <button className='btn high'>Get Resume</button></a>
-                   
+                        <button className='btn highlighted-btn'>Get Resume</button></a>
+                          
                     </div>
+
+                </div>
+                <div className='profile-picture'>
+                    <div className='profile-picture-background'></div>
                 </div>
             </div>
         </div>
