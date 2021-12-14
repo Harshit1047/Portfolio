@@ -6,6 +6,7 @@
     height:10%;
     min-height:fit-content;
     background-image: url("../../assets/bg.jpg");
+    
 }
 .profile-parent{
     display: flex;
@@ -27,6 +28,7 @@
 }
 .primary-text{
     color: (--white);
+    
 }
 .highlighted-text{
     color: var(--dark-orange);

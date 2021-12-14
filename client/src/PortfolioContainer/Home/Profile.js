@@ -34,7 +34,7 @@ export default function Profile() {
                                 <Typical
                                 loop={Infinity}
                                 steps={[
-                                    "Full Stack Web Developer",
+                                    "Full Stack Developer",
                                     1000,
                                     "Java Developer",
                                     1000,
