@@ -11,8 +11,8 @@ export default function Profile() {
                         <a href='https://www.linkedin.com/in/harshit-pratap-singh-36258a1b1/'>
                             <i class="fa fa-linkedin-square"></i>
                         </a>
-                        <a href='harshit79055@gmail.com'>
-                            <i class="fa fa-google"></i>
+                        <a href='https://www.instagram.com/harshit__singh0101/?hl=en'>
+                            <i class="fa fa-instagram"></i>
                         </a>
                         <a href='https://github.com/Harshit1047'>
                             <i class="fa fa-github" aria-hidden="true"></i>

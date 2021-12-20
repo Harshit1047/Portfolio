@@ -13,7 +13,7 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "I'm a Web Developer and a Competative Programmer, currently living in Chennai,Tamil Nadu. I'm a SRMIST class of 2023 undergraduate majoring in Computer Science and Engineering. My primary interest and inspiration for my studies is Web Development. Apart from above ambition and vision, I also working towards Java Development. I'm both driven and self-motivated and constantly experimenting with new technologies and techniques.",
+      "I'm a Web Developer and a Competitive Programmer, currently living in Chennai,Tamil Nadu. I'm a SRMIST class of 2023 undergraduate majoring in Computer Science and Engineering. My primary interest and inspiration for my studies is Web Development. Apart from above ambition and vision, I also working towards Java Development. I'm both driven and self-motivated and constantly experimenting with new technologies and techniques.",
     highlights: {
       bullets: [
         "Full Stack Web development",
