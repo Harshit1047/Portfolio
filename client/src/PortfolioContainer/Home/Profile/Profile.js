@@ -11,13 +11,13 @@ export default function Profile() {
                     <div className='colz'>
                         <div className='colz-icon'>
                         <a href='https://www.linkedin.com/in/harshit-pratap-singh-36258a1b1/'>
-                            <i class="fa fa-linkedin-square"></i>
+                            <i className="fa fa-linkedin-square"></i>
                         </a>
                         <a href='https://www.instagram.com/harshit__singh0101/?hl=en'>
-                            <i class="fa fa-instagram"></i>
+                            <i className="fa fa-instagram"></i>
                         </a>
                         <a href='https://github.com/Harshit1047'>
-                            <i class="fa fa-github" aria-hidden="true"></i>
+                            <i className="fa fa-github" aria-hidden="true"></i>
                         </a>
                         </div>
     

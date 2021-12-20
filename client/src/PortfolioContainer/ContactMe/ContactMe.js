@@ -61,7 +61,7 @@ export default function ContactMe(props) {
 
     };
     return (
-        <div className='main-container' id={props.id || ''}>
+        <div className='main-container' id={props.id}>
             <ScreenHeading subHeading={"Let's Keep In Touch"} title={"Contact Me"} />
             <div className='central-form'>
                 <div className='col'>
@@ -78,13 +78,13 @@ export default function ContactMe(props) {
                         />
                     </h2>
                     <a href='https://www.linkedin.com/in/harshit-pratap-singh-36258a1b1/'>
-                        <i class="fa fa-linkedin-square"></i>
+                        <i className="fa fa-linkedin-square"></i>
                     </a>
                     <a href='https://www.instagram.com/harshit__singh0101/?hl=en'>
-                        <i class="fa fa-instagram"></i>
+                        <i className="fa fa-instagram"></i>
                     </a>
                     <a href='https://github.com/Harshit1047'>
-                        <i class="fa fa-github" aria-hidden="true"></i>
+                        <i className="fa fa-github" aria-hidden="true"></i>
                     </a>
                 </div>
                 <div className='back-form'>
@@ -92,9 +92,7 @@ export default function ContactMe(props) {
                         <h4>
                             Send Your Email Here!
                         </h4>
-                        <img src={imgBack} alt='image not found' />
-
-
+                        <img src={imgBack} alt='not found' />
                     </div>
                     <form onSubmit={submitForm}>
                         <p>{banner}</p>
@@ -112,7 +110,7 @@ export default function ContactMe(props) {
                                 <i className="fa fa-paper-plane" />
                                 {bool ? (
                                     <b className="load">
-                                        <img src={load1} alt="image not responding" />
+                                        <img src={load1} alt="not responding" />
                                     </b>
                                 ) : (
                                     ""

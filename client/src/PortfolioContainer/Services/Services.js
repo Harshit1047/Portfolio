@@ -49,11 +49,11 @@ export default function Services(props) {
                                         </div>
                                 <div className="testi-item">
                                     <div className="testi-comment">
-                                        <p>
+                                        
 
                                             <h4>Software Developer</h4>
 
-                                        </p>
+                                        
                                        
                                     </div>
                                 </div>
@@ -64,11 +64,11 @@ export default function Services(props) {
                                         </div>
                                 <div className="testi-item">
                                     <div className="testi-comment">
-                                        <p>
+                                        
 
                                             <h4>Full Stack Developer</h4>
 
-                                        </p>
+                                       
                                         
                                     </div>
                                 </div>
@@ -79,11 +79,10 @@ export default function Services(props) {
                                         </div>
                                 <div className="testi-item">
                                     <div className="testi-comment">
-                                        <p>
-
+                                        
                                             <h4>MERN Stack Developer</h4>
 
-                                        </p>
+                                        
                                         
                                     </div>
                                 </div>
@@ -94,11 +93,11 @@ export default function Services(props) {
                                         </div>
                                 <div className="testi-item">
                                     <div className="testi-comment">
-                                        <p>
+                                        
 
                                             <h4>Java Developer</h4>
 
-                                        </p>
+                                        
                                         
                                     </div>
                                 </div>
